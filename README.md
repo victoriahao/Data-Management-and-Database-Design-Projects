@@ -2,8 +2,16 @@
 
 ## Topic: Online Shopping
 
-### Purpose:
-#### 1. Track and report customers retention and preference
-#### 2. Make efficient marketing plan
-#### 3. Improve profits and sales
+### Contents:
+#### 1. Database Purpose
+#### 2. Business Problems
+#### 3. Database ERD(Entity Relationship Diagram)
+#### 4. Database Implementation
+#### 5. Reporting Views
+#### 6. Visualizations
 
+
+
+
+
+- All rights reserved - 
