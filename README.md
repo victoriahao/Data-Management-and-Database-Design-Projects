@@ -1,4 +1,4 @@
-# Data-Management-and-Database-Design-Projects
+# Data Management and Database Design Projects
 
 ## Topic: Online Shopping
 
