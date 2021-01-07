@@ -11,7 +11,7 @@
 #### 6. Visualizations
 
 
-This repo includes presentation, documents and code base
+This repo includes presentation, document and code base
 
 
 ##### - All rights reserved - 
